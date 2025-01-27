@@ -1,0 +1,8 @@
+﻿  simulator.c
+C:\Users\Maija\Desktop\Project_computer\simulator\simulator\simulator.c(123,20): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\Maija\Desktop\Project_computer\simulator\simulator\simulator.c(231,19): warning C4047: 'function': 'int *' differs in levels of indirection from 'int (*)[23]'
+C:\Users\Maija\Desktop\Project_computer\simulator\simulator\simulator.c(231,19): warning C4024: 'check_irq': different types for formal and actual parameter 1
+C:\Users\Maija\Desktop\Project_computer\simulator\simulator\simulator.c(232,18): warning C4047: 'function': 'int *' differs in levels of indirection from 'int (*)[23]'
+C:\Users\Maija\Desktop\Project_computer\simulator\simulator\simulator.c(232,18): warning C4024: 'make_irq': different types for formal and actual parameter 1
+C:\Users\Maija\Desktop\Project_computer\simulator\simulator\simulator.c(193,9): warning C4101: 'imm_temp': unreferenced local variable
+  simulator.vcxproj -> C:\Users\Maija\Desktop\Project_computer\simulator\x64\Debug\simulator.exe

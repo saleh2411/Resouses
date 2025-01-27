@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerCommandArguments>"D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\קבצי אסמבלי\leds\memin.txt" "D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\קבצי אסמבלי\leds\diskin.txt" "D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\קבצי אסמבלי\leds\irq2in.txt" "D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\קבצי אסמבלי\leds\memout2.txt" "D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\קבצי אסמבלי\leds\regout2.txt" "D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\קבצי אסמבלי\leds\trace2.txt" "D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\קבצי אסמבלי\leds\hwregtrace2.txt" "D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\קבצי אסמבלי\leds\cycles2.txt" "D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\קבצי אסמבלי\leds\leds2.txt" "D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\קבצי אסמבלי\leds\display2.txt" "D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\קבצי אסמבלי\leds\diskout2.txt"</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>

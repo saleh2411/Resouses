@@ -1,0 +1,4 @@
+﻿  Assembler_v2.c
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Assembler\Assembler\Assembler_v2.c(330,13): warning C4098: 'readrdst': 'void' function returning a value
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Assembler\Assembler\Assembler_v2.c(352,12): warning C4098: 'readimmd': 'void' function returning a value
+  Assembler.vcxproj -> D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Assembler\Debug\Assembler.exe

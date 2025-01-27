@@ -1,0 +1,66 @@
+﻿  Simulator.c
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(282,71): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(282,91): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(770,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char (*)[9]'
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(799,24): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char **'
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(799,24): warning C4024: 'fopen': different types for formal and actual parameter 1
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(799,30): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char'
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(799,30): warning C4024: 'fopen': different types for formal and actual parameter 2
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(838,27): warning C4047: 'function': 'char **' differs in levels of indirection from 'char *'
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(838,27): warning C4024: 'openFile': different types for formal and actual parameter 1
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(838,32): warning C4047: 'function': 'char' differs in levels of indirection from 'char [2]'
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(838,32): warning C4024: 'openFile': different types for formal and actual parameter 2
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(847,26): warning C4047: 'function': 'char **' differs in levels of indirection from 'char *'
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(847,26): warning C4024: 'openFile': different types for formal and actual parameter 1
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(847,31): warning C4047: 'function': 'char' differs in levels of indirection from 'char [2]'
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(847,31): warning C4024: 'openFile': different types for formal and actual parameter 2
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(848,26): warning C4047: 'function': 'char **' differs in levels of indirection from 'char *'
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(848,26): warning C4024: 'openFile': different types for formal and actual parameter 1
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(848,31): warning C4047: 'function': 'char' differs in levels of indirection from 'char [2]'
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(848,31): warning C4024: 'openFile': different types for formal and actual parameter 2
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(849,25): warning C4047: 'function': 'char **' differs in levels of indirection from 'char *'
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(849,25): warning C4024: 'openFile': different types for formal and actual parameter 1
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(849,30): warning C4047: 'function': 'char' differs in levels of indirection from 'char [2]'
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(849,30): warning C4024: 'openFile': different types for formal and actual parameter 2
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(850,29): warning C4047: 'function': 'char **' differs in levels of indirection from 'char *'
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(850,29): warning C4024: 'openFile': different types for formal and actual parameter 1
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(850,34): warning C4047: 'function': 'char' differs in levels of indirection from 'char [2]'
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(850,34): warning C4024: 'openFile': different types for formal and actual parameter 2
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(852,27): warning C4047: 'function': 'char **' differs in levels of indirection from 'char *'
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(852,27): warning C4024: 'openFile': different types for formal and actual parameter 1
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(852,32): warning C4047: 'function': 'char' differs in levels of indirection from 'char [2]'
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(852,32): warning C4024: 'openFile': different types for formal and actual parameter 2
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(854,31): warning C4047: 'function': 'char **' differs in levels of indirection from 'char *'
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(854,31): warning C4024: 'openFile': different types for formal and actual parameter 1
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(854,36): warning C4047: 'function': 'char' differs in levels of indirection from 'char [2]'
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(854,36): warning C4024: 'openFile': different types for formal and actual parameter 2
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(856,30): warning C4047: '=': 'char (*)[9]' differs in levels of indirection from 'char *'
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(858,33): warning C4047: '=': 'char (*)[9]' differs in levels of indirection from 'char *'
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(865,25): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(865,25): warning C4024: 'updateDiskTimer': different types for formal and actual parameter 1
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(867,19): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(867,19): warning C4024: 'checkirq2': different types for formal and actual parameter 1
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(869,23): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(869,23): warning C4024: 'checkirq': different types for formal and actual parameter 1
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(893,97): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(893,97): warning C4024: 'Opcode_Operation': different types for formal and actual parameter 7
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(902,22): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(902,22): warning C4024: 'updateTimer': different types for formal and actual parameter 1
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(911,28): warning C4047: 'function': 'char **' differs in levels of indirection from 'char *'
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(911,28): warning C4024: 'openFile': different types for formal and actual parameter 1
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(911,33): warning C4047: 'function': 'char' differs in levels of indirection from 'char [2]'
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(911,33): warning C4024: 'openFile': different types for formal and actual parameter 2
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(912,27): warning C4047: 'function': 'char **' differs in levels of indirection from 'char *'
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(912,27): warning C4024: 'openFile': different types for formal and actual parameter 1
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(912,32): warning C4047: 'function': 'char' differs in levels of indirection from 'char [2]'
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(912,32): warning C4024: 'openFile': different types for formal and actual parameter 2
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(913,27): warning C4047: 'function': 'char **' differs in levels of indirection from 'char *'
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(913,27): warning C4024: 'openFile': different types for formal and actual parameter 1
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(913,32): warning C4047: 'function': 'char' differs in levels of indirection from 'char [2]'
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(913,32): warning C4024: 'openFile': different types for formal and actual parameter 2
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(914,29): warning C4047: 'function': 'char **' differs in levels of indirection from 'char *'
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(914,29): warning C4024: 'openFile': different types for formal and actual parameter 1
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(914,34): warning C4047: 'function': 'char' differs in levels of indirection from 'char [2]'
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(914,34): warning C4024: 'openFile': different types for formal and actual parameter 2
+D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\simulator\Simulator.c(833,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'int *'
+  simulator.vcxproj -> D:\Markman Dropbox\Etay Markman\אוניברסיטה\שנה 3\מבנה המחשב\פרוייקט\Simulator\simulator\Debug\simulator.exe

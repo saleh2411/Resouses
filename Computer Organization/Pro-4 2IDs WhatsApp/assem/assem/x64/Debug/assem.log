@@ -1,0 +1,4 @@
+﻿  assembler.c
+C:\Users\Maija\Desktop\Project_computer\assem\assem\assembler.c(155,5): warning C4047: 'return': 'char' differs in levels of indirection from 'char [2]'
+C:\Users\Maija\Desktop\Project_computer\assem\assem\assembler.c(273,42): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  assem.vcxproj -> C:\Users\Maija\Desktop\Project_computer\assem\x64\Debug\assem.exe
