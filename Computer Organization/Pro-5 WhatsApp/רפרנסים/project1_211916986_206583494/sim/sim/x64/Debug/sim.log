@@ -1,0 +1,18 @@
+﻿  sim.c
+C:\Users\Maxim\source\repos\sim\sim\sim.c(143,21): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[14]'
+C:\Users\Maxim\source\repos\sim\sim\sim.c(143,21): warning C4024: 'hexStringToBinary': different types for formal and actual parameter 1
+C:\Users\Maxim\source\repos\sim\sim\sim.c(143,40): warning C4047: 'function': 'int *' differs in levels of indirection from 'int (*)[48]'
+C:\Users\Maxim\source\repos\sim\sim\sim.c(143,40): warning C4024: 'hexStringToBinary': different types for formal and actual parameter 2
+C:\Users\Maxim\source\repos\sim\sim\sim.c(160,28): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char (*)[10]'
+C:\Users\Maxim\source\repos\sim\sim\sim.c(160,28): warning C4024: 'strtoul': different types for formal and actual parameter 1
+C:\Users\Maxim\source\repos\sim\sim\sim.c(177,26): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char (*)[10]'
+C:\Users\Maxim\source\repos\sim\sim\sim.c(177,26): warning C4024: 'strtoul': different types for formal and actual parameter 1
+C:\Users\Maxim\source\repos\sim\sim\sim.c(194,41): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char (*)[501]'
+C:\Users\Maxim\source\repos\sim\sim\sim.c(194,41): warning C4024: 'strtol': different types for formal and actual parameter 1
+C:\Users\Maxim\source\repos\sim\sim\sim.c(508,35): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\Maxim\source\repos\sim\sim\sim.c(516,35): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\Maxim\source\repos\sim\sim\sim.c(542,42): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char (*)[501]'
+C:\Users\Maxim\source\repos\sim\sim\sim.c(542,42): warning C4024: 'strtol': different types for formal and actual parameter 1
+C:\Users\Maxim\source\repos\sim\sim\sim.c(640,3): warning C4033: 'create_monitor_yuv' must return a value
+C:\Users\Maxim\source\repos\sim\sim\sim.c(647,4): warning C4033: 'create_monitor_yuv' must return a value
+  sim.vcxproj -> C:\Users\Maxim\source\repos\sim\x64\Debug\sim.exe

@@ -1,0 +1,6 @@
+﻿  asm.c
+C:\Users\Maxim\source\repos\asm\asm\asm.c(224,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Maxim\source\repos\asm\asm\asm.c(267,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Maxim\source\repos\asm\asm\asm.c(114,1): warning C4715: 'getImmNumber': not all control paths return a value
+  LINK : C:\Users\Maxim\source\repos\asm\x64\Debug\asm.exe not found or not built by the last incremental link; performing full link
+  asm.vcxproj -> C:\Users\Maxim\source\repos\asm\x64\Debug\asm.exe
